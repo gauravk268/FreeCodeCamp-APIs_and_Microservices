@@ -1,7 +1,7 @@
 {
-  "name": "fcc-learn-npm-package-json",
   "author": "Jane Doe",
-  "descripyion": "FreeCodeCamp submission file",
+  "name": "fcc-learn-npm-package-json",
+  "description": "FreeCodeCamp submission file",
   "keywords": [
     "freecodecamp",
     "API",
