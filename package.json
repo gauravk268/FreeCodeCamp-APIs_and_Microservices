@@ -1,24 +1,23 @@
 {
-    "name": "fcc-mongo-mongoose-challenges",
-    "version": "0.0.1",
-    "description": "A boilerplate project",
-    "main": "server.js",
-    "scripts": {
-        "start": "node server.js"
-    },
-    "dependencies": {
-        "body-parser": "^1.15.2",
-        "dotenv": "^8.2.0",
-        "express": "^4.12.4"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/freeCodeCamp/boilerplate-mongomongoose.git"
-    },
-    "keywords": [
-        "node",
-        "mongoose",
-        "express"
-    ],
-    "license": "MIT"
+  "name": "fcc-learn-npm-package-json",
+  "author": "Gaurav Kumar",
+  "description": "FreeCodeCamp submission file",
+  "keywords": [
+    "freecodecamp",
+    "API",
+    "microservice"
+  ],
+  "license": "MIT",
+  "version": "1.1.0",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://idontknow/todo.git"
+  }
 }
